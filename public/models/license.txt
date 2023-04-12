@@ -1,0 +1,11 @@
+Model Information:
+* title:	RL0N-25
+* source:	https://sketchfab.com/3d-models/rl0n-25-c54ce41b7b854834a13ef1ed42aed6ba
+* author:	Frostoise (https://sketchfab.com/Frostoise)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RL0N-25" (https://sketchfab.com/3d-models/rl0n-25-c54ce41b7b854834a13ef1ed42aed6ba) by Frostoise (https://sketchfab.com/Frostoise) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
